@@ -1,3 +1,3 @@
-import { runAnalysisWorkflow } from "./workflows/analyzeWorkflow";
+import { runAnalysisWorkflow } from "./workflows/analyzeWorkflow.js";
 
 export { runAnalysisWorkflow };
