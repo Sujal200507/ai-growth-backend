@@ -1,11 +1,11 @@
-import { searchApiTool } from "../tools/searchApiTool";
+import { searchApiTool } from "../tools/searchApiTool.js";
 import {
   businessNameMatches,
   normalizeText,
   calculateConfidence,
   CONFIDENCE_THRESHOLD,
   type MatchSignals,
-} from "../utils/textUtils";
+} from "../utils/textUtils.js";
 
 /**
  * DataCollectorAgent — Production-Level Architecture

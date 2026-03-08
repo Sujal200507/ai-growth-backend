@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { runAnalysisWorkflow } from "../mastra";
+import { runAnalysisWorkflow } from "../mastra/index.js";
 
 export async function analyzeController(req: Request, res: Response) {
   try {

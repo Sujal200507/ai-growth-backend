@@ -2,6 +2,7 @@
   "name": "ai-business-growth-analyzer-backend",
   "version": "1.0.0",
   "description": "AI Local Business Growth Analyzer - Mastra AI Backend",
+  "type": "module",
   "main": "src/index.ts",
   "scripts": {
     "dev": "tsx watch src/index.ts",

@@ -1,5 +1,5 @@
-import { searchApiTool } from "../tools/searchApiTool";
-import { normalizeText } from "../utils/textUtils";
+import { searchApiTool } from "../tools/searchApiTool.js";
+import { normalizeText } from "../utils/textUtils.js";
 
 /**
  * BenchmarkAgent

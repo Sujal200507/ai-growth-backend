@@ -1,4 +1,4 @@
-import { geminiTool } from "../tools/geminiTool";
+import { geminiTool } from "../tools/geminiTool.js";
 
 /**
  * RecommendationAgent

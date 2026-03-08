@@ -1,9 +1,9 @@
-import { collectBusinessData } from "../agents/dataCollectorAgent";
-import { calculateScore } from "../agents/scoringAgent";
-import { generateInsights } from "../agents/insightsAgent";
-import { generateRecommendations } from "../agents/recommendationAgent";
-import { generateBenchmark } from "../agents/benchmarkAgent";
-import { simulateImprovements } from "../agents/growthSimulator";
+import { collectBusinessData } from "../agents/dataCollectorAgent.js";
+import { calculateScore } from "../agents/scoringAgent.js";
+import { generateInsights } from "../agents/insightsAgent.js";
+import { generateRecommendations } from "../agents/recommendationAgent.js";
+import { generateBenchmark } from "../agents/benchmarkAgent.js";
+import { simulateImprovements } from "../agents/growthSimulator.js";
 
 /**
  * Analyze Workflow
