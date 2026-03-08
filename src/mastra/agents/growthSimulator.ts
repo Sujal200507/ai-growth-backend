@@ -1,4 +1,4 @@
-import { calculateScore } from "./scoringAgent";
+import { calculateScore } from "./scoringAgent.js";
 
 /**
  * GrowthSimulator
